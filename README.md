@@ -1,6 +1,6 @@
 # XIHU building dataset
 ## Download
-   Baidu Cloud
+   Baidu Cloud: https://pan.baidu.com/s/1e5QNs3gp9Si11D82BN3H8A (code: ej4l)
 ## Citation
 If you use the XIHU building dataset, please cite this:
 
