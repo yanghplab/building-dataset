@@ -4,14 +4,15 @@
 ## Citation
 If you use the XIHU building dataset, please cite this:
 
-(the paper is under review)
  
  @article { yang2022Building,
   
-  title={Building Extraction with Regions and Boundaries based on Convolutional Neural Networks},
+  title={A Postprocessing Method Based on Regions and Boundaries Using Convolutional Neural Networks and a New Dataset for Building Extraction},
   
-  author={ Haiping Yang, Meixia Xu, Yuanyuan Chen, Wei Wu and Wen Dong},
+  author={Haiping Yang, Meixia Xu, Yuanyuan Chen, Wei Wu and Wen Dong},
   
   year={2022}
+  
+  Link={https://www.mdpi.com/2072-4292/14/3/647}
 
 }
