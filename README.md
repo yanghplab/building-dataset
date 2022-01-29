@@ -13,6 +13,6 @@ If you use the XIHU building dataset, please cite this:
   
   year={2022}
   
-  Link={https://www.mdpi.com/2072-4292/14/3/647}
+  Link={ https://www.mdpi.com/2072-4292/14/3/647 }
 
 }
