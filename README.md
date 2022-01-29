@@ -11,6 +11,8 @@ If you use the XIHU building dataset, please cite this:
   
   author={Haiping Yang, Meixia Xu, Yuanyuan Chen, Wei Wu and Wen Dong},
   
+  journal={Remote Sensing}
+  
   year={2022}
   
   Link={ https://www.mdpi.com/2072-4292/14/3/647 }
