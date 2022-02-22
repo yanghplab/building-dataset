@@ -1,4 +1,5 @@
 # XIHU building dataset
+   All the images and labels in the XIHU building dataset are only for noncommercial or personal use. 
 ## Download
    Baidu Cloud: https://pan.baidu.com/s/1e5QNs3gp9Si11D82BN3H8A (code: ej4l)
 ## Citation
